@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Welcome to Our Portfolio
 
-You can use the [editor on GitHub](https://github.com/Nallace01/blog-portfolio/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Hi I'm Yi-De, Kuo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me 
+I love travel, hiking and also like to try different kinds of outdoor activities. In my spare time, I would drawing digital illustration daily as my interests.
 
-### Markdown
+![Yi-De, Kuo](images/linkedin.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Get in Touch
+Email: [yide.kuo@dcmail.ca](yide.kuo@dcmail.ca)
 
-```markdown
-Syntax highlighted code block
+## Hello! My name is Noah Wallace
 
-# Header 1
-## Header 2
-### Header 3
+### About me: 
+I'm a lifeguard as well as a swimming, first aid, and lifesaving instructor. I play classical nylon-string and flamenco guitar. Some of my other interests include programming and carpentry.
 
-- Bulleted
-- List
+![Noah-Wallace-headshot](images/headshot.jpg)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nallace01/blog-portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Get in Touch:
+Email: [noah.wallace@dcmail.ca](noah.wallace@dcmail.ca)
